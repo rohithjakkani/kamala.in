@@ -17,10 +17,37 @@ background-color: yellow;
     }
     #item3{
         height: 20%;
-        width: 30%;
+        width: 66%;
     }
-    h1{
+    h2{
         color: red;
+        font-size: 100;
         }
+    p{
+        color: black;
+        font-size: 33;
+    }
+    #item2{
+        height: 55%;
+    }
+    #i4{
+        height: 55%;
+    }
+    #i5{
+        height: 55%;
+        width: 100%;
+    }
+    #i6{
+        height: 55%;
+        width: 100%;
+    }
+    #i9{
+        height: 55%;
+        width: 100%;
+    }
+    #i10{
+        height: 55%;
+        width: 100%;
+    }
     
 }
