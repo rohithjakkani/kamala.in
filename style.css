@@ -1,12 +1,26 @@
 head{
-    color: aqua;    
-    }
+color: aqua;    
+}
 h1{
-    color: red;
+color: red;
 }
 button{
-    color:black;
+color:black;
 }
 body{
-    background-color: black;
+background-color: yellow;
+}
+@media screen {
+    #item1{
+        height: 20%;
+        width: 30%;
+    }
+    #item3{
+        height: 20%;
+        width: 30%;
+    }
+    h1{
+        color: red;
+        }
+    
 }
