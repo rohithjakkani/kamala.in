@@ -1,53 +1,53 @@
-head{
-color: aqua;    
-}
-h1{
-color: red;
-}
-button{
-color:black;
-}
-body{
-background-color: yellow;
-}
-@media screen {
-    #item1{
-        height: 20%;
-        width: 30%;
+    head{
+    color: aqua;    
     }
-    #item3{
-        height: 20%;
-        width: 66%;
+    h1{
+    color: red;
     }
-    h2{
-        color: red;
-        font-size: 100;
+    button{
+    color:black;
+    }
+    body{
+    background-color: yellow;
+    }
+    @media screen {
+        #item1{
+            height: 20%;
+            width: 30%;
         }
-    p{
-        color: black;
-        font-size: 33;
+        #item3{
+            height: 20%;
+            width: 66%;
+        }
+        h2{
+            color: red;
+            font-size: 100;
+            }
+        p{
+            color: black;
+            font-size: 33;
+        }
+        #item2{
+            height: 55%;
+        }
+        #i4{
+            height: 55%;
+        }
+        #i5{
+            height: 55%;
+            width: 100%;
+        }
+        #i6{
+            height: 55%;
+            width: 100%;
+        }
+        #i9{
+            height: 55%;
+            width: 100%;
+        }
+        #i10{
+            height: 55%;
+            width: 100%;
+        }
+        
     }
-    #item2{
-        height: 55%;
-    }
-    #i4{
-        height: 55%;
-    }
-    #i5{
-        height: 55%;
-        width: 100%;
-    }
-    #i6{
-        height: 55%;
-        width: 100%;
-    }
-    #i9{
-        height: 55%;
-        width: 100%;
-    }
-    #i10{
-        height: 55%;
-        width: 100%;
-    }
-    
-}
